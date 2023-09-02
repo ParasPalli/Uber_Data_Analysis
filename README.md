@@ -8,12 +8,21 @@ The Dataset contains information about Uber pickups in New York City from April 
 The Dataset contains information about Uber pickups in New York City of year 2016. It has over 1.2 K pickups (rows) and the following 7 columns:
 
 # Result
-![1](https://github.com/ParasPalli/Uber_Data_Analysis/assets/115391909/d2911c40-348a-4da7-8775-73b533425316)
-![2](https://github.com/ParasPalli/Uber_Data_Analysis/assets/115391909/adcaf481-5d08-4a4e-8167-38b7f5ddba47)
-![3](https://github.com/ParasPalli/Uber_Data_Analysis/assets/115391909/c6663239-75cc-4d77-9038-bc53d69a26e2)
-![4](https://github.com/ParasPalli/Uber_Data_Analysis/assets/115391909/07e8beae-9066-4724-aae0-44e8248e36a4)
-![5](https://github.com/ParasPalli/Uber_Data_Analysis/assets/115391909/c3206217-1975-4e71-8397-79522a5c5345)
-![6](https://github.com/ParasPalli/Uber_Data_Analysis/assets/115391909/b5a0737c-593c-438b-9ab8-41891f47807b)
-![7](https://github.com/ParasPalli/Uber_Data_Analysis/assets/115391909/b285551e-fabb-48f4-bd96-c4ee37e919a0)
-![8](https://github.com/ParasPalli/Uber_Data_Analysis/assets/115391909/14d967ba-7569-41cc-bb7e-a3141dfd7011)
-![9](https://github.com/ParasPalli/Uber_Data_Analysis/assets/115391909/b5949a1f-205e-435f-bab1-4483cc38d1a0)
+
+![2](https://github.com/ParasPalli/Uber_Data_Analysis/assets/115391909/e9374431-7c10-4ad1-9ae0-bfbcd782cd68)
+
+![1](https://github.com/ParasPalli/Uber_Data_Analysis/assets/115391909/3ddbf11e-c916-4dd0-8d51-1f21a1da30e3)
+
+![9](https://github.com/ParasPalli/Uber_Data_Analysis/assets/115391909/0c3a64b4-8cf4-480e-a53a-3fc6dee634b9)
+
+![8](https://github.com/ParasPalli/Uber_Data_Analysis/assets/115391909/fc9d8f11-94f0-4402-8e64-d9e9aaa7c392)
+
+![7](https://github.com/ParasPalli/Uber_Data_Analysis/assets/115391909/9572faf9-4881-46f6-9d9c-cd7d74817778)
+
+![6](https://github.com/ParasPalli/Uber_Data_Analysis/assets/115391909/d83f4cb0-34da-4f85-bbc5-a9756ce36edf)
+
+![5](https://github.com/ParasPalli/Uber_Data_Analysis/assets/115391909/aa510566-7d4f-4d57-bab6-f14afe23afcb)
+
+![4](https://github.com/ParasPalli/Uber_Data_Analysis/assets/115391909/9fda23c7-ca89-4d0b-bd47-8162980d0969)
+
+![3](https://github.com/ParasPalli/Uber_Data_Analysis/assets/115391909/315345e4-2a1b-4ad7-b7c5-89bb1fe8143a)
